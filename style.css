@@ -1,0 +1,62 @@
+body {
+
+ background-image: url("kepek/black.png");
+ margin-left: 20%;
+ margin-right: 19%;
+}
+.foolJat {
+	color:white;
+	text-align: center;
+	
+}
+
+.nav {
+	
+	background-color: #867979;
+}
+.tartalom {
+	padding-top: 15px;
+	background-color: gray;
+	float: left;
+	
+}
+.kepRight{
+	float:right;
+	width: 25%;
+	margin-right: 15px;
+	margin-bottom: 15px;
+}
+#navBar {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#navBar li {
+  float: left;
+}
+
+#navBar li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+#navBar li a:hover {
+  background-color: orange;
+}
+
+.beljebbKezd {
+	margin-left: 20px;
+	margin-right: 40px;
+}
+
+#lablec {
+	background-color: orange;
+	text-align: center;
+}
